@@ -1,2 +1,2 @@
 # sqmple_repo_01
-Sample repo
+Sample repo.
